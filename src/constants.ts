@@ -1,0 +1,1 @@
+export const DOOR_PASSWORD: string = '2835';

@@ -1,9 +1,8 @@
 import React from 'react';
+import DoorPassword from "./containers/DoorPassword/DoorPassword";
 
 const App = () => (
-  <div>
-    App
-  </div>
+  <DoorPassword />
 );
 
 export default App;
